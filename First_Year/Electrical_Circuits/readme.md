@@ -76,15 +76,6 @@ Capacitors smooth the signal by reducing ripple.
 
 ---
 
-## 📷 Project Preview
-
-### 🔧 Schematic
-![Schematic](images/schematic.png)
-
-### 🧱 Final Design
-![Final Design](images/final_design.png)
-
----
 
 ## 🚀 Applications
 - Operational amplifier circuits
@@ -99,7 +90,4 @@ Capacitors smooth the signal by reducing ripple.
 - Check polarity before powering the circuit
 - Ensure proper insulation and connections
 
----
 
-## 📜 License
-This project is for educational purposes.

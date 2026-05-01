@@ -13,18 +13,6 @@ All instructions are executed in **one clock cycle**, making the design simple a
 
 ---
 
-## 👥 Team Members
-- Gehad Amr  
-- Eslam Ahmed  
-- Nada Ashraf  
-- Nesreen Ahmed  
-- Nour Abd El-Sater  
-
-**Supervisor:**  
-Dr. Lamia Alrefaai  
-
----
-
 ## 🎯 Project Goal
 To design and simulate a CPU that:
 - Executes instructions in a single cycle  
